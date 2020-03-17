@@ -1,5 +1,5 @@
 # auto-typer
-**Semi automatic typper for 10fastfingers multiplayer mode**
+**Semi automatic typer for 10fastfingers multiplayer mode**
 
 ## Installation
 Install pyautogui.
